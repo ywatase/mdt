@@ -22,6 +22,14 @@ the latest version of the CLI executable:
 go install github.com/n9v9/mdt/cmd/mdt@latest
 ```
 
+### Installing from this fork
+
+This fork contains additional features or fixes. To install from this fork:
+
+```
+go install github.com/ywatase/mdt/cmd/mdt@latest
+```
+
 ## CLI
 
 The description of the CLI can be found [here](cmd/mdt).

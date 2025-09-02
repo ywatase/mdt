@@ -1,4 +1,4 @@
-module github.com/n9v9/mdt
+module github.com/ywatase/mdt
 
 go 1.18
 
