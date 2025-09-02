@@ -15,12 +15,11 @@ CLI under `cmd/mdt` whose documentation can be found there as well.
 
 ## Installing
 
-`mdt` is a small package and using it should be easy. Use `go get` to install
-the latest version of the library. This will download the library along with the
-`mdt` executable:
+`mdt` is a small package and using it should be easy. Use `go install` to install
+the latest version of the CLI executable:
 
 ```
-go get -u github.com/n9v9/mdt
+go install github.com/n9v9/mdt/cmd/mdt@latest
 ```
 
 ## CLI
